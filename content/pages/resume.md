@@ -4,7 +4,7 @@ Date: 2024-06-21
 # Resume
 
 ## Education
-- **University:** ABC University
+- **University:** ABC University!
 - **Degree:** Bachelor of Science in Computer Science
 
 ## Experience
